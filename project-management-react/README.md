@@ -1,6 +1,8 @@
 # Project Management
 
-Litle Project to follow the evolution of Tech Projects.
+Description Soon ! 
+
+<!-- Litle Project to follow the evolution of Tech Projects.
 
 ### Stack
 ---
@@ -55,4 +57,4 @@ https://www.chartjs.org/
 
 
 
-https://www.cypress.io/
+https://www.cypress.io/ -->
